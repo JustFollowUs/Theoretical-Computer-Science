@@ -54,6 +54,7 @@
 计算数学基础| Stanford | [Introduction to the Theory of Computation(michael sipser)](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X) | [链接](http://web.stanford.edu/class/cs103/)
 算法设计与分析 | Stanford | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) | [链接](http://web.stanford.edu/class/cs161/)
 [算法设计与分析](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) | MIT | [Introduction to Algorithms](https://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+[理论计算机科学入门](https://cn.udacity.com/course/intro-to-theoretical-computer-science--cs313) | Uda | 暂无 | [链接](https://cn.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
 ###<h3 id="math_median">数学基础中级</h3>
 
