@@ -81,7 +81,7 @@
 [Probability and Computing](https://book.douban.com/subject/2030668/) | 一般
 [Randomized Algorithms](https://book.douban.com/subject/1856070/) | 一般
 [Combinatorial Optimization](https://book.douban.com/subject/1823805/) | 一般
-[Introduction to the Theory of Computational](https://book.douban.com/subject/1862011/)
+[Introduction to the Theory of Computational](https://book.douban.com/subject/1862011/) | 一般
 [P, NP, and NP-Completeness: The Basics of Computational Complexity](https://book.douban.com/subject/6530366/) | 一般
 [Computational Complexity: A Conceptual Approach](https://book.douban.com/subject/4669784/) | 一般
 [Computational Complexity: A Modern Approach](https://book.douban.com/subject/3895531/) | 一般
